@@ -2,7 +2,7 @@
 
 
 <p align="justify"> This is a report given to the class "Experiment Design in Computer Science", taught by Professor Claus Aranha
-  during Master's course in Computer Science in the University of Tsukuba in 2021. You can find more info about this course 
+  during Master's course in Computer Science in the University of Tsukuba in 2022. You can find more info about this course 
   <a href=https://github.com/caranha/ExperimentDesignCS>here</a>.
 </p>
 <p align="justify"> 
